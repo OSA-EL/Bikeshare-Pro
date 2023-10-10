@@ -1,2 +1,2 @@
 # Bikeshare-Pro
-An analysis for bikeshare application at some cities in USA
+An analysis for bikeshare application for some cities in USA
