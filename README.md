@@ -11,9 +11,9 @@ Understanding the Data
 
 Let's use pandas to better understand the bike share data! Use this code editor to explore chicago.csv and answer the questions below. The file included here is a mini version of one of the actual data files you will work with for the project. It only includes 400 rows, but the structure and columns are the same.
 
-    What columns are in this dataset?
-    Are there any missing values?
-    What are the different types of values in each column?
+- What columns are in this dataset?
+- Are there any missing values?
+- What are the different types of values in each column?
 
 ### Some useful pandas methods:
 
@@ -34,7 +34,7 @@ Use pandas to load chicago.csv into a dataframe, and find the most frequent hour
 
 Hint: Another way to describe the most common value in a column is the mode.
 
-Step 3:
+## Step 3:
 
 ### Practice Problem #1
 
